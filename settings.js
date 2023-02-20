@@ -15,24 +15,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94719225807'] //ur owner number
-global.ownername = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur owner name
-global.ytname = "CYBER JOHN" //ur yt chanel name
-global.socialm = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['94713106474'] //ur owner number
+global.ownername = "🍃𝑸𝑼𝜩𝜩𝑵 𝑴𝜟𝑵𝑼𝑼 ᴮᴼᵀ🍃" //ur owner name
+global.ytname = "𝐌𝐑 𝐒𝐄𝐍𝐔𝐖𝐀 𝐌𝐎𝐃𝐒" //ur yt chanel name
+global.socialm = "Senesh Shashmika" //ur github or insta name
+global.location = "Sri Lanka,Matara" //ur location
 
 //bot bomdy 
 //ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ්👇 එක දාන්න
-global.session = "YXF5RWYwZ0I=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
-global.ownernomer = "94719225807" //ur number
-global.premium = ['94719225807'] //ur premium number
-global.botname = 'QUEEN -X' //ur bot name
-global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //ur website to be displayed
+global.session = "S05pUk1Ldmo=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
+global.ownernomer = "94713106474" //ur number
+global.premium = ['94713106474'] //ur premium number
+global.botname = '🍃𝑸𝑼𝜩𝜩𝑵 𝑴𝜟𝑵𝑼𝑼 ᴮᴼᵀ🍃' //ur bot name
+global.linkz = "https://chat.whatsapp.com/EN9JD9fDeQa7s6jaYOTjZK" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/@senuwamod" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
-global.themeemoji = "🛸" //ur theme emoji
-global.packname = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur sticker watermark packname
-global.author = "ＱＵＥＥＮ-Ｘ ＢＯＴ\n\n\nA whatsapp bot developed by\n   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark author
+global.themeemoji = "🙃" //ur theme emoji
+global.packname = "🍃𝑸𝑼𝜩𝜩𝑵 𝑴𝜟𝑵𝑼𝑼 ᴮᴼᵀ🍃" //ur sticker watermark packname
+global.author = "🍃𝑸𝑼𝜩𝜩𝑵 𝑴𝜟𝑵𝑼𝑼 ᴮᴼᵀ🍃\n\n\nA whatsapp bot developed by\n   💖𝗠𝗥 𝗦𝗘𝗡𝗨𝗪𝗔𝗛💖     " //ur sticker watermark author
 global.wm = "ＱＵＥＥＮ-Ｘ ＢＯＴ." //ur watermark
 
 // Other
